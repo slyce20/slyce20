@@ -13,3 +13,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Slyce-b0t&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- made using https://prm.pushkaryadav.in -->
+
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
