@@ -1,4 +1,4 @@
-<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Tural Asgarov </h1> </div>
+<div align="center"><h1> Hi, <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/>I am Tural Asgarov </h1> </div>
 
 
 # Tech Stack
