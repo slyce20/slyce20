@@ -11,11 +11,11 @@
 </div>
 
 # GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Slyce-b0t&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Slyce-b0t&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Slyce-b0t&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=slyce20&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=slyce20&&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=slyce20&&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=Slyce-b0t&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=slyce20&&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div>
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
