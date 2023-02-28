@@ -6,7 +6,6 @@
 <div>
 <img src="https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="LinkedIn Badge"/>
 <img src="https://img.shields.io/badge/Scikit_learn-blue?style=for-the-badge&logo=scikit-learn&logoColor=orange" alt="LinkedIn Badge"/>
-<img src="https://img.shields.io/badge/Numpy-gray?style=for-the-badge&logo=numpy&logoColor=blue" alt="LinkedIn Badge"/>
 <img src="https://img.shields.io/badge/Pandas-green?style=for-the-badge&logo=Pandas&logoColor=gray" alt="LinkedIn Badge"/>
 </div>
 
