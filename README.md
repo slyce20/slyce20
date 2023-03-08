@@ -1,5 +1,13 @@
-<div align="center"><h1> Hi, <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> I am Tural Asgarov </h1> </div>
+hi?  
+  
+<p align=center>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-5849BE?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
+<div align="center">
+
+</div>
 
 # Tech Stack
 
