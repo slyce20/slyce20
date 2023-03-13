@@ -1,4 +1,4 @@
-hi?  
+Hi, I'm Tural Asgarov
   
 <p align=center>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=black" />
