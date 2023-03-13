@@ -1,32 +1,29 @@
+<p align=center>
 Hi, I'm Tural Asgarov
+</p>
 
-
-<div id="badges">
+<p align=center>
   <a href="https://www.linkedin.com/in/tural-asgarov-a17878219/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tural-asgarov-a17878219/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/__slyce__" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</p>
 
 
 
 <p align=center>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=black" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-5849BE?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-5849BE?style=for-the-badge&logo=jupyter&logoColor=black"/>
 </p>
 
-<div align="center">
-
-</div>
 
 # Tech Stack
 
 <div>
+<img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-5849BE?style=for-the-badge&logo=jupyter&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="LinkedIn Badge"/>
 <img src="https://img.shields.io/badge/Scikit_learn-blue?style=for-the-badge&logo=scikit-learn&logoColor=orange" alt="LinkedIn Badge"/>
 <img src="https://img.shields.io/badge/Pandas-green?style=for-the-badge&logo=Pandas&logoColor=gray" alt="LinkedIn Badge"/>
