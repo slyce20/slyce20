@@ -13,17 +13,11 @@ Hi, I'm Tural Asgarov
 
 
 
-<p align=center>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-5849BE?style=for-the-badge&logo=jupyter&logoColor=black"/>
-</p>
-
-
 # Tech Stack
 
 <div>
 <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-5849BE?style=for-the-badge&logo=jupyter&logoColor=black"/>
+<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-5849BE?style=for-the-badge&logo=jupyter&logoColor=orange"/>
 <img src="https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="LinkedIn Badge"/>
 <img src="https://img.shields.io/badge/Scikit_learn-blue?style=for-the-badge&logo=scikit-learn&logoColor=orange" alt="LinkedIn Badge"/>
 <img src="https://img.shields.io/badge/Pandas-green?style=for-the-badge&logo=Pandas&logoColor=gray" alt="LinkedIn Badge"/>
