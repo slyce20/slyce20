@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tural</h1>
-<h3 align="center">Data Scientist from Azerbaijan</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slyce20&label=Profile%20views&color=0e75b6&style=flat" alt="slyce20" /> </p>
 
